@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HighOnWords7
+- 👋 Hi, I’m Sweta
 - 👀 Professionally, I'm a data scientist, interested in learning more about Data Science and cataloguing everything I have learnt
 - 🌱 I’m currently learning Data Structures and Algorithms, Python, Deep Learning, and A/B testing.
 - 💞️ I’m looking to collaborate on anything Data Science, honestly. 
